@@ -5,6 +5,6 @@ st.set_page_config(
     page_icon="✋",
 )
 
-st.title("main page")
+st.title("to do list")
 st.sidebar.success("select a page above")
 
