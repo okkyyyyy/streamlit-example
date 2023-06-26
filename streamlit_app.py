@@ -6,7 +6,7 @@ st.set_page_config(
     page_icon="✋",
 )
 
-st.title("to do list")
+st.title("to-do list")
 menu = ["Create","Read","Update","Delete","About"]
 choice = st.sidebar.selectbox("Menu",menu)
 
