@@ -3,7 +3,7 @@ import pandas as pd
 
 st.set_page_config(
     page_title="to-do list",
-    page_icon="✋",
+    page_icon="📖",
 )
 
 
